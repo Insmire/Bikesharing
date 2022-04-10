@@ -9,20 +9,21 @@ The purpose of this project is to utilize Tableau to create visualizations based
 ## Resources
 
 Data Source:
-    new-201908-citibike-tripdata.csv
+
+  [2019 August NYC Citi Bike data](https://s3.amazonaws.com/tripdata/index.html)
 
 <!-- "pip show <software>" in command prompt to see pip install ver -->
 <!-- pip show code from https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip -->
 Software:
-    Tableau Public
+
+  Tableau Public
 
 ---
 
 <!-- Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image. -->
 ## Results
 
-Link to Tableau story
-https://public.tableau.com/views/CitiBikeNYCStory/NYCstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[Link to Tableau story](https://public.tableau.com/views/CitiBikeNYCStory/NYCstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ---
 
