@@ -28,13 +28,13 @@ Another analysis Citi Bike may be interested in is the number or percentage of b
 
 Data Source:
 
-  [2019 August NYC Citi Bike data](https://s3.amazonaws.com/tripdata/index.html)
+  - [2019 August NYC Citi Bike data](https://s3.amazonaws.com/tripdata/index.html)
 
 <!-- "pip show <software>" in command prompt to see pip install ver -->
 <!-- pip show code from https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip -->
 Software:
 
-  Tableau Public
+  - Tableau Public
      
 ---
 
