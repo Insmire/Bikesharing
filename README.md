@@ -1,5 +1,5 @@
 ## Overview
-The purpose of this project is to utilize Tableau to create visualizations based on 2019 August New York City (NYC) Citi Bike rider data. The Tableau story includes but is not limited to
+The purpose of this project is to utilize Tableau to create visualizations based on the 2019 August New York City (NYC) Citi Bike rider data. The Tableau story includes but is not limited to
 * The duration of time all riders and each gender check out a bike,
 * The number of bikes used each hour on each day of the week, and 
 * The number of bikes used each hour per day of the week and differentiated by gender and user type.
@@ -42,4 +42,4 @@ Software:
 
 Email: show.wang94@gmail.com
 
-LinkedIn: [https://www.linkedin.com/in/s-k-wang](https://www.linkedin.com/in/s-k-wang)
+LinkedIn: [showkatewang](http://linkedin.com/in/showkatewang)
